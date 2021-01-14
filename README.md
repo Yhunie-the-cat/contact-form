@@ -1,1 +1,2 @@
-Simple responsive contact form using HTML, css, js. UI design made from [here](https://dribbble.com/shots/3990314-Daily-UI-028-Contact-Us).
+### Simple responsive contact form using html, css and js.
+Design: [link](https://dribbble.com/shots/3990314-Daily-UI-028-Contact-Us)
